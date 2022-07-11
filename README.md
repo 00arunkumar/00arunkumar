@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Arun Kumar</h1>  
+<h1 align="center">Hi :wave: I'm Arun Kumar</h1>  
 <h3 align="center">A passionate Data Analysis</h3>  
 
 
