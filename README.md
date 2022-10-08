@@ -32,5 +32,5 @@
 <a href="https://twitter.com/arunkumar200720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkumar200720" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/arun-kumar-data/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-kumar-ba2081209/" height="30" width="40" /></a>  
 <a href="https://kaggle.com/arunkumar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arunkumar2001" height="30" width="40" /></a>  
-<a href="https://instagram.com/iarunkumar750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iarunkumar750/" height="30" width="40" /></a>  
+<a href="https://instagram.com/_iarunkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iarunkumar750/" height="30" width="40" /></a>  
 </p> 
