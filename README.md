@@ -1,12 +1,8 @@
 <h1 align="center">Hi :wave: I'm Arun Kumar</h1>  
 <h3 align="center">A Passionate Data Analysis ✨</h3>  
 
-<p align="center">
-  <img 
-    width="700"
-    height="500"
-    src="https://github.com/00arunkumar/00arunkumar/blob/main/github-gif.gif">
-</p>
+<img src="https://github.com/00arunkumar/00arunkumar/blob/main/github-gif.gif">
+
 
 
 
